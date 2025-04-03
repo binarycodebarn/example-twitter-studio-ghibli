@@ -13,14 +13,14 @@ export const metadata = {
   openGraph: {
     title: "NinjaTweet - Konoha Social",
     description: "Example by Binary Code Barn",
-    // images: [
-    //   {
-    //     url: "/images/og-image.png",
-    //     width: 1200,
-    //     height: 630,
-    //     alt: "NinjaTweet - Konoha Social",
-    //   },
-    // ],
+    images: [
+      {
+      url: "/screenshot.png",
+      width: 1200,
+      height: 630,
+      alt: "NinjaTweet - Konoha Social",
+      },
+    ],
   },
 };
 

@@ -31,6 +31,65 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# NinjaTweet 🥷🍜
+
+A whimsical Studio Ghibli-inspired X (Twitter) clone focused on the *feed experience*, themed around the world of Naruto.
+
+Built with **Next.js**, **Tailwind CSS**, and **FontAwesome**, this project is a frontend-only concept showcasing UI/UX creativity and fandom fun.
+
+![NinjaTweet Screenshot](./public/screenshot.png)
+
+---
+
+## 🌟 Features
+
+- Clean Twitter-like feed layout
+- Konoha-inspired trending sidebar
+- Playful "Who to Follow" suggestions
+- Ninja-themed emojis
+- Ghibli-esque pastel visual style
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and run the local development server:
+
+```bash
+git clone https://github.com/binarycodebarn//example-twitter-studio-ghibli.git
+cd /example-twitter-studio-ghibli
+npm install
+npm run dev
+```
+
+Then open your browser at: [http://localhost:3000](http://localhost:3000)
+
+### 🚠 Tech Stack
+
+- **Next.js** (App Router)
+- **Tailwind CSS** for styling
+- **FontAwesome** for icons
+
+---
+
+## 🧠 Who Made This?
+
+Created by [Binary Code Barn](https://binarycodebarn.com), a Berlin-based software consulting company. This is a fun open-source example project for inspiration and practice.
+
+---
+
+## 🔗 Links
+
+- 🔗 [Binary Code Barn](https://binarycodebarn.com)
+- 🧑‍💻 [Our GitHub](https://github.com/binarycodebarn)
+
+---
+
+## 📄 License
+
+This project is open source under the **MIT License**. Feel free to fork, remix, or use parts of it for your own apps!
+
